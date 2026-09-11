@@ -1,4 +1,4 @@
 {
   "title": "Hello from a Git-backed site",
-  "tagline": "Deployed end to end by the platform pipeline."
+  "tagline": "Built, verified and deployed from an immutable commit."
 }

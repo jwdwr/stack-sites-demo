@@ -8,6 +8,3 @@ test("content has a title and tagline", async () => {
   assert.ok(content.tagline.length > 0);
 });
 
-test("deliberately failing test to exercise the failure report", () => {
-  assert.equal("this-is-the-marker-value", "expected-something-else");
-});
